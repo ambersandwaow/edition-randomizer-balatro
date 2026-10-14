@@ -1,0 +1,16 @@
+{
+    "id": "ddeckidk",
+    "name": "random stuff decks",
+    "display_name": "random stuff decks",
+    "author": [
+        "ambray"
+    ],
+    "description": "very simple mod that adds a couple ways to randomize the things",
+    "prefix": "bwaaa",
+    "main_file": "main.lua",
+    "priority": 100,
+    "version": "0.0.1",
+    "dependencies": [
+        "Steamodded (*)"
+    ]
+}
